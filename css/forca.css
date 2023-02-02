@@ -9,7 +9,7 @@ body{
     width: 100vw;
     height: 90vh;
     margin-top: 10px;
-    background-color: #008080;
+    background:url('../img/wallpaperflare.com_wallpaper\ \(28\).jpg');
     font-family: 'Ubuntu', sans-serif;
 }
 
@@ -40,8 +40,8 @@ body{
 .letras{
     width: 16px;
     text-align: center;
-    border-bottom: 2px solid #87CEFA;
-    color: #ffffff;
+    border-bottom: 2px solid black;
+    color: #000;
     padding: 2px;
     margin-left: 2px;
     margin-right: 2px;
@@ -54,7 +54,7 @@ body{
 .letrasEspaco{
     width: 16px;
     text-align: center;
-    color: #ffffff;
+    color: #000;
     padding: 2px;
     margin-left: 2px;
     margin-right: 2px;
@@ -73,7 +73,7 @@ body{
     box-shadow:  0px 2px 8px dimgray;
     border-radius: 5px;
     border: 1px solid dimgrey;  
-    color: #87CEFA;
+    color: #000;
     font-family: 'Ubuntu', sans-serif;
     font-weight: 900;
 }
@@ -88,7 +88,7 @@ body{
 
 #categoria{
     margin-top: 30px;
-    color: #87CEFA;
+    color: black;
     font-size: 1.2em;
 }
 
